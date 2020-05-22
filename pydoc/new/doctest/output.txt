@@ -1,13 +1,5 @@
-Results of doctest builder run on 2020-05-22 10:42:26
+Results of doctest builder run on 2020-05-22 10:49:03
 =====================================================
-
-Document: apache_beam.io.avroio
--------------------------------
-1 items passed all tests:
-   1 tests in default
-1 tests in 1 items.
-1 passed and 0 failed.
-Test passed.
 
 Document: apache_beam.io.parquetio
 ----------------------------------
@@ -18,6 +10,14 @@ Document: apache_beam.io.parquetio
 Test passed.
 1 items passed all tests:
    1 tests in default (cleanup code)
+1 tests in 1 items.
+1 passed and 0 failed.
+Test passed.
+
+Document: apache_beam.io.avroio
+-------------------------------
+1 items passed all tests:
+   1 tests in default
 1 tests in 1 items.
 1 passed and 0 failed.
 Test passed.
